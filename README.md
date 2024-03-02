@@ -10,7 +10,9 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Operating System Vulnerability Scanning](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Security Awareness (Credential harvesting using Cloned Website + Phishing Email)](https://youtu.be/DZ2trUQs1tY)
+
+- [Security Awareness (Cloned lovebug virus)](https://www.youtube.com/watch?v=y4GnuyUqYws)
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -23,7 +25,7 @@
 [linkedin]: https://linkedin.com/in/gerry-gonzales
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gerry-gonzales/gerry-gonzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
