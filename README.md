@@ -4,10 +4,12 @@
 
 - <b>OS & Web App Vulnerability Scanning | Home Lab</b>
   - [Advanced Vulnerability Scanning with Nessus](https://github.com/gerry-gonzales/VulnerabilityScanLab)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-
+<h2>🌱 I’m currently learning ...</h2>
+- <b>Google IT Automation with Python </b> <br/>
+- <b>TryHackMe Pen Testing Pathway</b> <br/>
+- <b>eJPT Certification</b> <br/>
+- <b>ISC2 Certified in Cybersecurity</b>
 <h2>📺 YouTube Videos</h2>
 
 - [Security Awareness (Credential harvesting using Cloned Website + Phishing Email)](https://youtu.be/DZ2trUQs1tY)
