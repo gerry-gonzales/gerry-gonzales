@@ -12,9 +12,9 @@
 - <b>ISC2 Certified in Cybersecurity</b>
 <h2>📺 YouTube Videos</h2>
 
-- [Security Awareness (Credential harvesting using Cloned Website + Phishing Email)](https://youtu.be/DZ2trUQs1tY)
 
-- [Security Awareness (Cloned lovebug virus)](https://www.youtube.com/watch?v=y4GnuyUqYws)
+
+
 
 
 <h2> 🤳 Connect with me:</h2>
