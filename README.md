@@ -5,11 +5,9 @@
 - <b>OS & Web App Vulnerability Scanning | Home Lab</b>
   - [Advanced Vulnerability Scanning with Nessus](https://github.com/gerry-gonzales/VulnerabilityScanLab)
 
-<h2>🌱 I’m currently learning ...</h2>
-- <b>Google IT Automation with Python </b> <br/>
-- <b>TryHackMe Pen Testing Pathway</b> <br/>
-- <b>eJPT Certification</b> <br/>
-- <b>ISC2 Certified in Cybersecurity</b>
+<h2>🌱 I’m currently studying ...</h2>
+- <b>Cybersecurity at NAIT </b> <br/>
+
 <h2>📺 YouTube Videos</h2>
 
 
