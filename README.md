@@ -4,7 +4,8 @@
 
 - <b>OS & Web App Vulnerability Scanning | Home Lab</b>
   - [Advanced Vulnerability Scanning with Nessus](https://github.com/gerry-gonzales/VulnerabilityScanLab)
-
+- <b>Build a SIEM | Home Lab</b>
+  - [Learn to analyze and interpret logs and alerts](https://github.com/gerry-gonzales/VulnerabilityScanLab)
 <h2>🌱 I’m currently studying ...</h2>
 - <b>Cybersecurity at NAIT </b> <br/>
 
